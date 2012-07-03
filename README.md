@@ -1,4 +1,6 @@
 grid
 ====
 
-CSS grid based on 960 grid system
+Simple CSS grid based on 960 Grid System.
+
+To be continued...
