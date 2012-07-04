@@ -16,9 +16,9 @@ So, Grid is required only 2 files in the `<head>` of the page:
 
 If you are familiar with 960 Grid System or Twitter Bootstrap, there is nothing to say more, other than the Grid's classes are differ just by their names. E.g.:
 
-**960 Grid System**: container_12 - grid_N - prefix_N - suffix_N
-**Twitter Bootstrap**: container - row - spanN - offsetN
-**Grid**: grid - colN - prefN - sufN
+* **960 Grid System**: container_12 - grid_N - prefix_N - suffix_N
+* **Twitter Bootstrap**: container - row - spanN - offsetN
+* **Grid**: grid - colN - prefN - sufN
 
 ###example###
 
@@ -33,7 +33,7 @@ If you are familiar with 960 Grid System or Twitter Bootstrap, there is nothing 
 		</div>
 		<div class="col4 last">
 			<div class="col1 pref1 first">
-				<p>One more time</p>
+				<p>Onсe more time</p>
 			</div>
 			<div class="col2 last">
 				<div class="col2 full">
