@@ -26,18 +26,18 @@ If you are familiar with 960 Grid System or Twitter Bootstrap, there is nothing 
 <div class="grid">
 	<div class="col12">
 		<div class="col4 first">
-			<p>Some Content</p>
+			...
 		</div>
 		<div class="col3 suf1">
-			<p>Another Content</p>
+			...
 		</div>
 		<div class="col4 last">
 			<div class="col1 pref1 first">
-				<p>Onсe more time</p>
+				...
 			</div>
 			<div class="col2 last">
 				<div class="col2 full">
-					<p>Something like this</p>
+					...
 				</div>
 			</div>
 		</div>
